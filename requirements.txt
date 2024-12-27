@@ -1,0 +1,3 @@
+reactpy==1.1.0
+hypercorn==0.15.0
+fastapi==0.104.1
